@@ -58,5 +58,7 @@ public class ManualTestingTopics {
         System.out.println("-How to write test cases with BDD");
         System.out.println("-Maintenance");
 
+        System.out.println("Total sub cats");
+
     }
 }
